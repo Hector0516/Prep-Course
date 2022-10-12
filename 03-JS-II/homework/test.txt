@@ -1,0 +1,17 @@
+for:La declaración for crea un ciclo que consta de tres expresiones opcionales, 
+encerradas entre paréntesis y separadas por punto y coma, seguidas de una declaración (generalmente una declaración de bloque ) que se ejecutará en el ciclo.
+
+Para que se usa estas dos barra verticales?
+
+El operador lógico OR ( || ) devuelve el valor booleano true si uno o ambos operandos son true y, de lo contrario, devuelven false . Los operandos se convierten implícitamente al tipo bool antes de la evaluación y el resultado es de tipo bool . El operador OR lógico tiene
+
+que signifiaca  la siguinte expresion: &&
+
+&& AND (el resultado es verdadero si ambas expresiones son verdaderas) || OR (el resultado es verdadero si alguna expresión es verdadera)
+
+que significa la siguinte expresion?
+
+El operador lógico OR ( || ) devuelve el valor booleano true si uno o ambos operandos son true y, de lo contrario, devuelven false . Los operandos se convierten implícitamente al tipo bool antes de la evaluación y el resultado es de tipo bool . El operador OR lógico tiene asociatividad de izquierda a derecha
+
+qu significa la siguiente expresion "!" ?
+En Javascript, el símbolo de exclamación («!»), Llamado «bang», es el operador lógico «no». Si se coloca delante de un valor booleano, invertirá el valor y devolverá lo contrario. Al igual que una declaración condicional if , una exclamación («!») crea un contexto booleano.

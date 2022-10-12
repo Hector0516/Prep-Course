@@ -138,7 +138,7 @@ describe('fizzBuzz(num)', function() {
 
 describe('operadoresLogicos(num1, num2, num3)', function() {
   it('should return \'Número 1 es mayor y positivo\' if num1 is positive and if it is greater than num2 and num3', function() {
-    expect(operadoresLogicos(50, 2, 15)).toBe('Número 1 es mayor y positivo');
+    expect(operadoresLogicos(50, 2, 15)).toBe('Número 1 es mayor y positivo')
   });
   it('should return \'Hay negativos\' if any of the arguments are negative', function() {
     expect(operadoresLogicos(80, -1, 2)).toBe('Hay negativos');
