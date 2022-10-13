@@ -1,0 +1,5 @@
+los arrays : Es una lista de elementos
+
+se difine :
+var arreglo= [1,2,3,4,'toi'[2,3,4]]
+puede  ser cualquier  tipo 0 en funsione
