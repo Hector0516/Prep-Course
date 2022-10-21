@@ -50,6 +50,6 @@ describe('agregarMetodo(Persona)', function() {
 		agregarMetodo();
 		const persona = new Persona("Juan", "Pérez", 22, "Saavedra 123");
 		expect(persona.datos()).toBe('Juan, 22 años');
-	});
-});
+	})
+})
 
